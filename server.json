@@ -23,6 +23,30 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Prato feito - chic",
+      "price": "24,90",
+      "description": "PF de rico, mas nem tão rico",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Bororó de camarão",
+      "price": "35.90",
+      "description": "Comida com camarão",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarrão com Legumes",
+      "price": "15.60",
+      "description": "Macarrão integral com legumes",
+      "available": true,
+      "id": 6
     }
   ]
 }
